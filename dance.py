@@ -1,2 +1,2 @@
-import nikal, os,
+import nikal os
 os.system("python2 nikal.so")
